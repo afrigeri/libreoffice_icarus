@@ -7,4 +7,4 @@ Click on "Select Style" and hit the "+" button, select the .jstyle file and you 
 
 Next time you will fire up JabRef the Icarus style will be there ready to be used.
 
-__(c) 2017 Alessandro Frigeri - IAPS Istituto di Astrofisica e Planetologia Spaziali__
+__(c) 2017 Alessandro Frigeri - IAPS/INAF Istituto di Astrofisica e Planetologia Spaziali, Rome Italy__
